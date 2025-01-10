@@ -4,12 +4,12 @@ pages:
 - name: Home
   url: /
 - name: Publications
-  url: /Publications
+  url: /publications
 - name: Teaching
-  url: /Teaching
+  url: /teaching
 - name: Awards
-  url: /Awards
+  url: /awards
 - name: Resources
-  url: /Resources
+  url: /resources
 - name: Gallery
-  url: /Gallery
+  url: /gallery
