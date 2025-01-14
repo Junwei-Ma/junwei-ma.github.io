@@ -4,9 +4,10 @@ title : Resources
 navbar_title: Resources
 ---
 
+<p> </p>
+<p>Welcome to the resources page! I would like to share helpful academic resources here.</p>
 
-<p>
-    Welcome to the resources page! I would like to share helpful academic resources here.</p>
+
 
 {% assign cards_by_group = site.resources | sort: "date" | reverse | where: "show", true | group_by_exp: "item", "item.group" %}
 
