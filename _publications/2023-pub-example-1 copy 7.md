@@ -1,9 +1,9 @@
 ---
 title:          "AI Meets Natural Hazard Risk: A Nationwide Vulnerability Assessment of Data Centers to Natural Hazards and Power Outages"
-date:           2025-01-06 00:01:00 +0800
+date:           2024-12-26 00:01:00 +0800
 selected:       false
 pub:            "SSRN"
-pub_date:       "2025"
+pub_date:       "2024"
 abstract: >-
   Our society is on the verge of a revolution powered by Artificial Intelligence (AI) technologies. 
   With increasing advancements in AI, there is a growing expansion in data centers (DCs) 

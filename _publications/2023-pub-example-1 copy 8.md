@@ -1,6 +1,6 @@
 ---
-title:          "Anatomy of a Historic Blackout: Decoding Spatio-Temporal Dynamics of Power Outages and Disparities During Hurricane Beryl"
-date:           2025-01-20 00:01:00 +0800
+title:          "Anatomy of A Historic Blackout: Decoding Spatio-Temporal Dynamics of Power Outages and Disparities During Hurricane Beryl"
+date:           2025-01-22 00:01:00 +0800
 selected:       false
 pub:            "arXiv"
 pub_date:       "2025"
@@ -13,5 +13,5 @@ authors:
 - Junwei Ma
 - Ali Mostafavi
 links:
-  arXiv: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5072677
+  arXiv: https://arxiv.org/abs/2501.10835
 ---
