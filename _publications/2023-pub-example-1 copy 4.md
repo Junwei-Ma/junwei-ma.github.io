@@ -1,9 +1,9 @@
 ---
 title:          "Decoding the Pulse of Community during Disasters: Resilience Analysis Based on Fluctuations in Latent Lifestyle Signatures within Human Visitation Networks"
-date:           2024-2-23 00:01:00 +0800
-selected:       false
-pub:            "arXiv"
-pub_date:       "2024"
+date:           2024-05-06 00:01:00 +0800
+selected:       true
+pub:            "International Journal of Disaster Risk Reduction"
+pub_date:       "2025"
 abstract: >-
   In this study, we leveraged data from more than 1.2 million anonymized human mobility communications across 
   30 parishes in Louisiana to construct a temporal network that tracks visitation to places from which we characterized human lifestyle signatures before, during, and after Hurricane Ida in 2021. 
@@ -12,5 +12,5 @@ authors:
 - Junwei Ma
 - Ali Mostafavi
 links:
-  arXiv: https://arxiv.org/abs/2402.15434
+  arXiv: https://www.sciencedirect.com/science/article/pii/S2212420925003760
 ---

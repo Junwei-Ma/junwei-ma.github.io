@@ -1,7 +1,7 @@
 ---
 title:          "Characterizing Urban Lifestyle Signatures Using Motif Properties in Network of Places"
 date:           2023-10-16 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Environment and Planning B: Urban Analytics and City Science"
 pub_date:       "2023"
 abstract: >-
