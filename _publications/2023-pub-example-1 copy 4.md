@@ -1,6 +1,6 @@
 ---
 title:          "Decoding the Pulse of Community during Disasters: Resilience Analysis Based on Fluctuations in Latent Lifestyle Signatures within Human Visitation Networks"
-date:           2024-05-06 00:01:00 +0800
+date:           2025-05-06 00:01:00 +0800
 selected:       true
 pub:            "International Journal of Disaster Risk Reduction"
 pub_date:       "2025"
@@ -12,5 +12,5 @@ authors:
 - Junwei Ma
 - Ali Mostafavi
 links:
-  arXiv: https://www.sciencedirect.com/science/article/pii/S2212420925003760
+  Paper: https://www.sciencedirect.com/science/article/pii/S2212420925003760
 ---

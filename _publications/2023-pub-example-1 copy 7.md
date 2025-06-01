@@ -17,5 +17,5 @@ authors:
 - Junwei Ma
 - Ali Mostafavi
 links:
-  SSRN: https://www.sciencedirect.com/science/article/pii/S2212420925004078
+  Paper: https://www.sciencedirect.com/science/article/pii/S2212420925004078
 ---
