@@ -14,5 +14,5 @@ authors:
 - Olufemi A. Omitaomu
 - Ali Mostafavi
 links:
-  arXiv: https://www.sciencedirect.com/science/article/abs/pii/S0306261925010906
+  Paper: https://www.sciencedirect.com/science/article/abs/pii/S0306261925010906
 ---
