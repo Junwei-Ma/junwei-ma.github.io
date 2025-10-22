@@ -1,7 +1,7 @@
 ---
 title:          "Establishing Nationwide Power System Vulnerability Index across US Counties Using Interpretable Machine Learning"
 date:           2025-06-30 00:01:00 +0800
-selected:       ture
+selected:       true
 pub:            "Applied Energy"
 pub_date:       "2025"
 abstract: >-

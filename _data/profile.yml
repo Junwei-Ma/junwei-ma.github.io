@@ -24,17 +24,17 @@ researchgate: Junwei-Ma-3
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  Junwei currently holds a joint appointment as a Postdoctoral Researcher at Texas A&M University and a Research Scientist at Resilitix Intelligence LLC.. He received his Ph.D. in Civil Engineering from Texas A&M University in 2025. 
-  Prior to that, he earned his M.S. in Management Science and Engineering and B.E. in Construction Management from Southeast University, China, in 2021 and 2018, respectively.
+  Junwei currently holds a joint appointment as a Postdoctoral Researcher at Texas A&M University and a Research Scientist at Resilitix Intelligence LLC. 
+  He received his Ph.D. in Civil Engineering from Texas A&M University in 2025. 
   Junwei works under the supervision of <a href="https://www.linkedin.com/in/mostafaviali/" target="_blank">Prof. Ali Mostafavi</a> at the  <a href="https://www.urbanresilience.ai/" target="_blank">Urban Resilience.AI Lab</a>.
   </p>
   <p>
-    Junwei's research centers around four interconnected themes: 
-    <strong><em>Urban Resilience</em></strong>, <strong><em>Urban Systems</em></strong>, <strong><em>Urban Intelligence</em></strong>, and <strong><em>Urban Crises</em></strong> (4U).
+  Junwei's research centers around four interconnected themes: 
+  <strong><em>Urban Resilience</em></strong>, <strong><em>Urban Systems</em></strong>, <strong><em>Urban Intelligence</em></strong>, and <strong><em>Urban Crises</em></strong> (4U).
   </p>
   <p>
-    His research goal is to create new knowledge and methods in integrated intelligence to deliver transformative solutions 
-    that enhance resiliency, accessibility, inclusivity, sustainability, and equity (<strong><em>RAISE</em></strong>) in urban environments under ever-changing climate conditions. 
+  His research goal is to create new knowledge and methods in integrated intelligence to deliver transformative solutions 
+  that enhance resiliency, accessibility, inclusivity, sustainability, and equity (<strong><em>RAISE</em></strong>) in urban environments under ever-changing climate conditions. 
   </p>
 
 portrait_url: /assets/images/photos/avatar.png
@@ -44,8 +44,7 @@ portrait_url: /assets/images/photos/avatar.png
 education:
 - name: Texas A&M University
   logo: /assets/images/badges/tamu.png
-  position: >- 
-    Ph.D. in Civil Engineering
+  position: Ph.D. in Civil Engineering
   date: Sep. 2021 - Aug. 2025
 - name: Southeast University
   logo: /assets/images/badges/southeast.png
@@ -59,16 +58,16 @@ education:
 experience:
 - name: Urban Resilience.AI Lab
   logo: /assets/images/badges/lab.png
-  position: Graduate Research Assistant
-  date: Jan. 2024 - Present
+  position: Postdoctoral Researcher
+  date: Sep. 2025 - Present
+- name: Resilitix Intelligence LLC
+  logo: /assets/images/badges/resilitix.png
+  position: Research Scientist
+  date: Oct. 2025 - Present
 - name: Texas A&M University
   logo: /assets/images/badges/tamu.png
-  position: Graduate Teaching Assistant
-  date: Sep. 2022 - Dec. 2023
-- name: Urban Resilience.AI Lab
-  logo: /assets/images/badges/lab.png
-  position: Graduate Research Assistant
-  date: Sep. 2021 - Aug. 2022
+  position: Graduate Research/Teaching Assistant
+  date: Sep. 2021 - Aug. 2025
 #awards:
 #- name: Award Name 2
 #  date: 2024
