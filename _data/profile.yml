@@ -4,13 +4,13 @@ navbar_name: "Junwei Academic Website"
 
 positions:
 - logo: /assets/images/badges/tamu.png  # Logo is optional
-  name: Ph.D. Candidate at Texas A&M University
+  name: Postdoctoral Researcher at Texas A&M University
 #- name: Position 2 without logo
 
 
 email: "jwma@tamu.edu"
 #cv_link: https://drive.google.com/file/d/1tiBDTfMrZKaYdr756Ef4-btibVURE0V8/view?usp=drive_link
-gscholar: 7czqC00AAAAJ&hl  # This is an example, replace it with your own Google Scholar ID
+gscholar: i6t3upUAAAAJ # This is an example, replace it with your own Google Scholar ID
 #github: Junwei-Ma
 linkedin: junwei-ma-a95771220
 orcid: 0000-0002-9570-9527
@@ -24,8 +24,9 @@ researchgate: Junwei-Ma-3
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  Junwei is currently a Ph.D. Candidate in the Zachry Department of Civil and Environmental Engineering at Texas A&M University. 
-  He works under the supervision of <a href="https://www.linkedin.com/in/mostafaviali/" target="_blank">Prof. Ali Mostafavi</a> at the  <a href="https://www.urbanresilience.ai/" target="_blank">Urban Resilience.AI Lab</a>.
+  Junwei currently holds a joint appointment as a Postdoctoral Researcher at Texas A&M University and a Research Scientist at Resilitix Intelligence LLC.. He received his Ph.D. in Civil Engineering from Texas A&M University in 2025. 
+  Prior to that, he earned his M.S. in Management Science and Engineering and B.E. in Construction Management from Southeast University, China, in 2021 and 2018, respectively.
+  Junwei works under the supervision of <a href="https://www.linkedin.com/in/mostafaviali/" target="_blank">Prof. Ali Mostafavi</a> at the  <a href="https://www.urbanresilience.ai/" target="_blank">Urban Resilience.AI Lab</a>.
   </p>
   <p>
     Junwei's research centers around four interconnected themes: 
@@ -45,7 +46,7 @@ education:
   logo: /assets/images/badges/tamu.png
   position: >- 
     Ph.D. in Civil Engineering
-  date: Sep. 2021 - May. 2025
+  date: Sep. 2021 - Aug. 2025
 - name: Southeast University
   logo: /assets/images/badges/southeast.png
   position: M.S. in Management Science and Engineering

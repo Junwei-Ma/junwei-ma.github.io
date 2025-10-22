@@ -1,9 +1,9 @@
 ---
 title:          "Establishing Nationwide Power System Vulnerability Index across US Counties Using Interpretable Machine Learning"
-date:           2024-10-11 00:01:00 +0800
-selected:       false
-pub:            "arXiv"
-pub_date:       "2024"
+date:           2025-06-30 00:01:00 +0800
+selected:       ture
+pub:            "Applied Energy"
+pub_date:       "2025"
 abstract: >-
   We collected ~179 million power outage records at 15-minute intervals across 3022 US contiguous counties (96.15% of the area) from 2014 to 2023. We developed a power system vulnerability assessment 
   framework based on three dimensions (intensity, frequency, and duration) and applied interpretable machine learning models (XGBoost and SHAP) to compute Power System Vulnerability Index (PSVI) at the county level. 
@@ -14,5 +14,5 @@ authors:
 - Olufemi A. Omitaomu
 - Ali Mostafavi
 links:
-  arXiv: https://arxiv.org/abs/2410.19754
+  arXiv: https://www.sciencedirect.com/science/article/abs/pii/S0306261925010906
 ---

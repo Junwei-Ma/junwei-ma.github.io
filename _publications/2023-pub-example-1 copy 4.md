@@ -1,7 +1,7 @@
 ---
 title:          "Decoding the Pulse of Community during Disasters: Resilience Analysis Based on Fluctuations in Latent Lifestyle Signatures within Human Visitation Networks"
 date:           2025-05-06 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "International Journal of Disaster Risk Reduction"
 pub_date:       "2025"
 abstract: >-
